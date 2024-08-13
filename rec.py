@@ -19,7 +19,7 @@ import os
 import pinecone
 from pinecone import Pinecone
 pc = Pinecone(
-    api_key="19ddd4aa-9fbc-44f7-a499-6f194785e9c5"  # Replace with your actual API key
+    api_key="#"  # Replace with your actual API key
 )
 
 index_name = 'image-text-vectors'
